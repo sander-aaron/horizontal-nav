@@ -23,6 +23,7 @@ header {
 
 div {
   background-color: #595652;
+  text-align: center;
 }
 
 h1 {
@@ -39,6 +40,7 @@ li {
   border-radius: 3px;
   list-style-type: none;
   font-family: sans-serif;
+  margin: .3em;
 }
 
 a,
