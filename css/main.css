@@ -11,7 +11,7 @@ html {
 
 body {
   background-color: #595652;
-  margin: .3em;
+  margin: 0 auto;
   padding-top: .2em;
   padding-bottom: .2em;
 }
@@ -29,7 +29,8 @@ div {
 h1 {
   color: #fff;
   text-align: center;
-  font-family: Bevan;
+  font-family: Bevan, cursive;
+  line-height: .5;
 }
 
 li {
