@@ -11,14 +11,14 @@ html {
 
 body {
   background-color: #595652;
-  margin: .3em 0em;
+  margin: 0em;
   padding-top: .5em;
   padding-bottom: .5em;
 }
 
 header {
   background-color: #79756f;
-  padding: .5em;
+  padding: .1em;
 }
 
 div {
