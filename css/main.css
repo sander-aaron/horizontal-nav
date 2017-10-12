@@ -9,9 +9,13 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  background-color: #595652;
+  margin: .3em 0em 3em 0em;
+}
+
 header {
   background-color: #79756f;
-  margin: .3em;
 }
 
 div {
