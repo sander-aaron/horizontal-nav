@@ -30,7 +30,7 @@ h1 {
   color: #fff;
   text-align: center;
   font-family: Bevan, cursive;
-  line-height: .5;
+  line-height: 0;
 }
 
 li {
