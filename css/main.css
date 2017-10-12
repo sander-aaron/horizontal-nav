@@ -11,13 +11,24 @@ html {
 
 header {
   background-color: #79756f;
+  margin: .3em;
 }
 
 h1 {
   color: #fff;
+  text-align: center;
 }
 
 li {
   background-color: #713837;
   color: #fff;
+  display: inline-block;
+  margin: 0 auto;
+  border-radius: 3px;
+}
+
+a,
+a:link {
+  color: #fff;
+  text-decoration: none;
 }
